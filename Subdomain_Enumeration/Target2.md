@@ -17,13 +17,11 @@ This is the **second target** in my Subdomain Enumeration task. I followed the s
 subfinder -d hackerone.com -o subfinder.txt
 ```
 
-**Output File:**
-[subfinder2.txt](https://github.com/Tanya0xCyber/Skill_Horizon/blob/main/Subdomains_Enumeration/Target2/subfinder2.txt)
 
 **Screenshot:**
 
 <p align="center">
-  <img src="https://github.com/Tanya0xCyber/Skill_Horizon/blob/main/Subdomains_Enumeration/Target2/screenshots2/subfinder_target2.png" width="80%">
+  <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Subdomain_Enumeration/screenshots/subfinder02.png" width="80%">
 </p>
 
 **Notes:**
@@ -41,13 +39,10 @@ subfinder -d hackerone.com -o subfinder.txt
 assetfinder --subs-only hackerone.com > assetfinder.txt
 ```
 
-**Output File:**
-[assetfinder2.txt](https://github.com/Tanya0xCyber/Skill_Horizon/blob/main/Subdomains_Enumeration/Target2/assetfinder2.txt)
-
 **Screenshot:**
 
 <p align="center">
-  <img src="https://github.com/Tanya0xCyber/Skill_Horizon/blob/main/Subdomains_Enumeration/Target2/screenshots2/assetfinder_target2.png" width="80%">
+  <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Subdomain_Enumeration/screenshots/assetfinder02.png" width="80%">
 </p>
 
 **Notes:**
@@ -66,15 +61,11 @@ cat subfinder.txt assetfinder.txt | alterx -p '{{sub}}-{{word}}.{{suffix}}' -o a
 cat alterx_permutations.txt | dnsx -o live_subdomains.txt
 ```
 
-**Output Files:**
-
-* [alterx_permutations2.txt](https://github.com/Tanya0xCyber/Skill_Horizon/blob/main/Subdomains_Enumeration/Target2/alterx_permutations2.txt)
-* [live_subdomains.2txt](https://github.com/Tanya0xCyber/Skill_Horizon/blob/main/Subdomains_Enumeration/Target2/live_subdomains2.txt)
 
 **Screenshot:**
 
 <p align="center">
-  <img src="https://github.com/Tanya0xCyber/Skill_Horizon/blob/main/Subdomains_Enumeration/Target2/screenshots2/alterx_target2.png" width="80%">
+  <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Subdomain_Enumeration/screenshots/alterx02.png" width="80%">
 </p>
 
 **Notes:**
