@@ -58,7 +58,8 @@ dirb http://testphp.vulnweb.com /usr/share/wordlists/dirb/small.txt -o dirb.txt
 
 **Screenshot:**
 
-<p align="center"><img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Web-Application-Scanning/Screenshots/dirb_testphp.png" width="80%"></p>
+<p align="center">
+ <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Scanning-Web-Applications/screenshots/dirb(4).png" width="80%"></p>
 
 ---
 
