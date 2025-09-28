@@ -79,7 +79,8 @@ nikto -h http://testphp.vulnweb.com -output nikto.txt
 
 **Screenshot:**
 
-<p align="center"><img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Web-Application-Scanning/Screenshots/nikto_testphp.png" width="80%"></p>
+<p align="center">
+ <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Scanning-Web-Applications/screenshots/nikto(4).png" width="80%"></p>
 
 ---
 
@@ -93,7 +94,8 @@ nuclei -u http://testphp.vulnweb.com -as -o nuclei.txt -c 10
 
 **Screenshot:**
 
-<p align="center"><img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Web-Application-Scanning/Screenshots/nuclei_testphp.png" width="80%"></p>
+<p align="center">
+ <img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Web-Application-Scanning/Screenshots/nuclei_testphp.png" width="80%"></p>
 
 ---
 
