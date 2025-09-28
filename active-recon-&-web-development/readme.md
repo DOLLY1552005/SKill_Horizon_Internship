@@ -25,7 +25,7 @@ nmap -sn zero.webappsecurity.com
 **Screenshot:**
 
 <p align="center">
-  <img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Active_Recon_%26_Web_Enumeration/Screenshots/host_discovery.png" width="80%">
+  <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/active-recon-%26-web-development/screenshots/nmap(3).png" width="80%">
 </p>
 
 ---
@@ -43,7 +43,7 @@ nmap -sS zero.webappsecurity.com
 **Screenshot:**
 
 <p align="center">
-  <img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Active_Recon_%26_Web_Enumeration/Screenshots/TCP_syn_scan.png" width="80%">
+  <img src="g" width="80%">
 </p>
 
 ---
