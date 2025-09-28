@@ -116,7 +116,7 @@ sudo docker run -v $(pwd):/zap/wrk/:rw --network="host" ghcr.io/zaproxy/zaproxy:
 
     **Screenshot:**
     <p align="center"
-     <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Scanning-Web-Applications/screenshots/zap_baseline.html"width="80">
+     <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Scanning-Web-Applications/screenshots/docker(4).png"width="80">
     </p>
 
 
