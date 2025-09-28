@@ -74,7 +74,7 @@ Detects services, versions, and runs default NSE scripts on 22, 80, 443.
 nmap -sV -p- zero.webappsecurity.com 
 ```
 
-**Screenshot:**
+*Screenshot:*
 
 <p align="center">
   <img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Active_Recon_%26_Web_Enumeration/Screenshots/service_version_scan.png" width="80%">
