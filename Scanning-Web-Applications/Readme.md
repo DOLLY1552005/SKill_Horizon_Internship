@@ -44,7 +44,7 @@ whatweb http://testphp.vulnweb.com
 
 **Screenshot:**
 
-<p align="center"><img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Web-Application-Scanning/Screenshots/whatweb_testphp.png" width="80%"></p>
+<p align="center"><img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Scanning-Web-Applications/screenshots/whatweb(4).png" width="80%"></p>
 
 ---
 
