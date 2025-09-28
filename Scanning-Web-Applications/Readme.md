@@ -1,4 +1,4 @@
-# Web Application Scanning — Automated Vulnerability Discovery (testphp.vulnweb.com)
+# Scanning Web Applications — Automated Vulnerability Discovery (testphp.vulnweb.com)
 
 ## Overview:-
 
