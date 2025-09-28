@@ -43,7 +43,7 @@ nmap -sS zero.webappsecurity.com
 **Screenshot:**
 
 <p align="center">
-  <img src="g" width="80%">
+  <img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/active-recon-%26-web-development/screenshots/-sS(3).png" width="80%">
 </p>
 
 ---
