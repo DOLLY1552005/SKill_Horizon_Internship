@@ -114,11 +114,6 @@ sudo docker run -v $(pwd):/zap/wrk/:rw --network="host" ghcr.io/zaproxy/zaproxy:
   * Potential XSS in `guestbook.php` & `search.php`
   * Absence of anti-CSRF tokens on key pages
 
-**Screenshot:**
-
-<p align="center"><img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Web-Application-Scanning/Screenshots/owasp_1.png" width="80%"></p>
-
----
 
 ### 2.4 WPScan — WordPress Check
 
@@ -133,7 +128,7 @@ wpscan --url http://testphp.vulnweb.com
 
 **Screenshot:**
 
-<p align="center"><img src="https://github.com/Tanya0xCyber/Skill_Horizon_Internship/blob/main/Web-Application-Scanning/Screenshots/wpscan_testphp.png" width="80%"></p>
+<p align="center"><img src="https://github.com/DOLLY1552005/SKill_Horizon_Internship/blob/main/Scanning-Web-Applications/screenshots/wpscan(4).png" width="80%"></p>
 
 ---
 
