@@ -1,1 +1,30 @@
 
+# DVWA on Kali Linux: XSS & File Upload Security Comparison
+
+## **Objective**
+- Compare how DVWA handles **Cross‑Site Scripting (XSS)** and **Unrestricted File Upload** across security levels (Low → Medium → High → Impossible).  
+- Produce concise findings and remediation suggestions for each vulnerability.
+
+---
+
+
+
+## **Quick Setup**
+1. Start DVWA on Kali and login (`admin` / `password` by default).  
+2. Ensure folders above exist (`comparison/`).
+
+---
+
+## **Scope**
+- **Target:** DVWA running locally (`http://127.0.0.1/dvwa`)  
+- **Vulnerabilities:** XSS (Reflected/Stored) and File Upload (unrestricted uploads)  
+- **Security levels:** Low, Medium, High, Impossible
+
+---
+
+## **Testing Flow (per vuln)**
+1. Set DVWA security → **Low**. Run payloads, capture screenshot & raw output.  
+2. Repeat for **Medium**, **High**, **Impossible**.  
+3. Save evidence using the naming convention above.
+
+---
