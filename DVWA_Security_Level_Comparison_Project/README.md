@@ -1,7 +1,7 @@
 
-# DVWA on Kali Linux: XSS & File Upload Security Comparison
+# DVWA  : XSS & File Upload Security Comparison
 
-## **Objective**
+## **MAIN GOALS**
 - Compare how DVWA handles **Cross‑Site Scripting (XSS)** and **Unrestricted File Upload** across security levels (Low → Medium → High → Impossible).  
 - Produce concise findings and remediation suggestions for each vulnerability.
 
